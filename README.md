@@ -6,6 +6,7 @@ Weekly Podcast/Livestream on Apple Swift Language
 * [Getting started with Swift-guided tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
 * Swift playgrounds:  Cover Swift Playgrounds in Xcode and app
 * [Build out a Swift CLI](https://github.com/noahgift/swift-cli)
+* [Tutorial Episode 1](https://github.com/noahgift/52-weeks-swift/tree/main/episode1)
 
 ## References
 
