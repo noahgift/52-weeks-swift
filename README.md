@@ -4,6 +4,7 @@ Weekly Podcast/Livestream on Apple Swift Language
 ## Episode 1: 
 
 * Getting started with Swift
+* Swift playgrounds
 * [Build out a Swift CLI](https://github.com/noahgift/swift-cli)
 
 ## References
